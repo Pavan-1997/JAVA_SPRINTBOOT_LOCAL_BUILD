@@ -4,7 +4,7 @@
 
 1. Execute the application locally and access it using your browser
 
-git clone https://github.com/Pavan-1997/JAVA_SPRINGBOOT_LOCAL_BUILD.git
+git clone https://github.com/Pavan-1997/Java_Springboot_Local_Build
 
 cd JAVA_SPRINTBOOT_LOCAL_BUILD/spring-boot-app
 
